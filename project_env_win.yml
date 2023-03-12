@@ -1,0 +1,19 @@
+name: project
+channels:
+    - defaults
+dependencies:
+    - matplotlib
+    - numpy
+    - imageio
+    - scikit-learn
+    - notebook
+    - pandas
+    - seaborn
+    - scipy
+    - ipywidgets
+    - tqdm
+    - statsmodels
+    - jupyterlab
+    - pip
+    - pip:
+        - tweet-preprocessor
