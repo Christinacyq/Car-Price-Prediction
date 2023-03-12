@@ -116,7 +116,7 @@ From the visualized data points, we can see the data distribution is similar to 
 | Member | Responsibilities |
 | ----------- | ----------- |
 | Luting Wang | Introduction, github page |
-| Yueqiao Chen | Data processing |
+| Yueqiao Chen | Data processing and coding |
 | Minzhi Wang | Evaluation |
 | Jiaxuan Li | Coding |
 | Xingfang Yuan | Coding |
